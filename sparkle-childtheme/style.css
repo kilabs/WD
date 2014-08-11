@@ -1,0 +1,11 @@
+/*
+Theme Name:     Little Sparkle
+Description:    Child theme of Sparkle
+Author:         Yeahthemes
+Template:       yeahthemes-sparkle
+Version:		1.0
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../yeahthemes-sparkle/style.css");
